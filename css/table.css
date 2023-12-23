@@ -428,16 +428,11 @@ input[type="checkbox"]
 /* PAGINATION */
 .page
 {
-    /* border: #211544 solid ; */
-    /* margin-bottom: 50px; */
-    /* align-items: center; */
+
     height: 100px;
     margin-top: 0;
 }
-.page nav
-{
-    /* transform: translate(-50%, -50%); */
-}
+
 .pagination
 {
     display: flex;
