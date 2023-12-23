@@ -100,7 +100,7 @@ aside .side-link.active::before
     left: 0;
     z-index: 9999;
 }
-nav 
+.head-box 
 {
     /* position: sticky; */
     display: flex;
@@ -113,7 +113,7 @@ nav
     top: 0;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
-nav .user-box
+.head-box .user-box
 {
     display: flex;
     background-color: #594E7C;
@@ -133,7 +133,7 @@ nav .user-box
     padding-left: 20px;
 
 }
-nav img
+.head-box img
 {
     border-radius: 50px;
     border:#62b668 solid 7px;
@@ -144,7 +144,7 @@ nav img
     margin-right: -15px;
     z-index: 100;
 }
-nav #logout
+.head-box #logout
 {
     gap: 8px;
 }
